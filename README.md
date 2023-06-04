@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HengyiMa
-- 👀 I’m interested in AL&ML, also you're welcomed to discuss sports, pop music and video games with me.
-- 🌱 I’m currently learning AL in the university of Adelaide,SA.
+- 👀 I’m interested in AI&ML, also you're welcomed to discuss sports, pop music and video games with me.
+- 🌱 I’m currently learning AI in the university of Adelaide,SA.
 - 💞️ I’m looking to collaborate with any friends who share same interests with me.
 - 📫 How to reach me just communicate me on github.
